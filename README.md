@@ -1,6 +1,8 @@
 ## About
 
-This is an example project that illustrates creating a RESTful API in Spring Boot.
+This is an example project that illustrates creating a RESTful API in Spring Boot along with OAuth2 security implementation using h2 DB.
+Related blog post: https://gigsterous.github.io/engineering/2017/03/01/spring-boot-4.html
+Imported and ran the app on 10th October 2018 and is working.
 
 ## Runnning this project
 
